@@ -12,6 +12,12 @@ Huawei@123
 123@abc
 123!@#qwe
 1qaz@WSX
+2wsx#EDC
+3edc$RFV
+4rfv%TGB
+5tgb^YHN
+6yhn&UJM
+
 Ab123
 1qaz!QAZ
 Admin123
