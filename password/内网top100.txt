@@ -42,6 +42,7 @@ $RFV4rfv
 Ab123
 1qaz!QAZ
 Admin123
+admin123
 Administrator
 Abc123
 Admin@123
