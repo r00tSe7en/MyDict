@@ -22,6 +22,6 @@ and 1=1
 and length(3) -- +
 ' and length(3) -- +
 and sleep(3) -- +
-' and sleep(3)  -- +
+' and sleep(3) -- +
 and sleep(3 -- +
 ' and sleep(3 -- +
