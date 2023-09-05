@@ -1,3 +1,7 @@
+!@#$qwerasdf
+!@#$qwerASDF
+!@#$QWERasdf
+!@#$QWERASDF
 $RFV1qaz
 $RFV2wsx
 $RFV3edc
@@ -16,6 +20,7 @@ $RFV4rfv
 0p;/8ik,
 0p;/9ol.
 0p;/)P:?
+123!@#
 123456789a
 123456a
 123456y
@@ -282,6 +287,7 @@ admin@1234
 Admin@1234
 admin1qaz2wsx
 admin888
+asdfghjkl;’
 @bcd1234
 #EDC1qaz
 #EDC2wsx
@@ -300,6 +306,8 @@ Huawei@123
 *IK<8ik,
 *IK<9ol.
 Liyan!2#4%6
+‘;lkjhgfdsa
+/.,mnbvcxz
 (OL>1qaz
 (OL>2wsx
 (OL>3edc
@@ -309,6 +317,7 @@ Liyan!2#4%6
 (OL>7ujm
 (OL>8ik,
 (OL>9ol.
+P@$$word
 P@$$word123
 )P:?0p;/
 )P:?1qaz
@@ -334,6 +343,8 @@ Password01!
 password1
 Password1
 Password123
+-pl,=[;.
+=[;.-pl,
 -pl,0okm
 -pl,4esz
 -pl,5rdx
@@ -341,6 +352,7 @@ Password123
 -pl,7ygv
 -pl,8uhb
 -pl,9ijn
+\][poiuytrewq
 p@ssw0rd
 p@ssw0rd!
 P@ssw0rd
@@ -349,7 +361,11 @@ P@SSW0RD
 p@ssw0rd1
 P@ssw0rd1
 P@ssw0rd123
+p@ssword
+P@ssword
+P@SSWORD
 P@w0rd
+P@word
 q12345
 q123456
 Q123456
@@ -371,7 +387,10 @@ q1w2e3r4t5
 !QAZ2wsx@
 !QAZ2wsx#EDC
 !QAZ3edc
+qazWSX^&*
+!QAZwsx
 QAZwsx123
+!QAZ@WSX#EDC
 qazxsw123
 Qiyi@123
 Qiyi@123456
@@ -387,10 +406,15 @@ qwe1234
 qwe1234a
 qwe1234A
 qwe321
+!Q@W#EE$R
+Q!W@E#R$
+QWER!@#$
 Q!W@E#R$q1w2e3r4
 Q!W@E#R$r4e3w2q1
 qwer1234!@#$
 qwer12345
+qwertyuiop[]
+qwertyuiop[]\
 qwqwqw123
 R$E#W@Q!q1w2e3r4
 R$E#W@Q!r4e3w2q1
@@ -448,3 +472,4 @@ zaq1xsw2cde3#@!
 zaq1xsw2cde3@!
 ZAQ!2wsx
 ZAQ!xsw2
+zxcvbnm,./
